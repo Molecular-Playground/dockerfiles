@@ -6,7 +6,7 @@ Dockerfiles relating to the Molecular Playground.
 
 Dockerfiles have been created for the following environments:
 
-* [Node.js](/node-js/Dockerfile)
+* [Node.js](https://github.com/Molecular-Playground/dockerfiles/blob/master/node-js/Dockerfile)
 
 ## Notes
 
